@@ -13,7 +13,7 @@ This course project has two parts:
       
   The dataset contains 53,940 observations of diamonds and 10 variables such as price, carat, cut, clarity, color, X,Y and so on.
   
-  By using 'selectInput' and 'checkboxInput' option in sidebar panel, we can know the relationship between the attributes. 
+  By using 'selectInput' and 'checkboxInput' option in sidebar panel of reproducible pitch, we can know the relationship between the attributes. 
       
   The reproducible pitch presentation is available in the following link:
   
@@ -22,4 +22,4 @@ This course project has two parts:
   
   Source code  in ui.R and server.R files are available in the following link:
   
-  ---
+   https://github.com/Lakshmi-Kovvuri/Developing-data-products-week4/tree/master
